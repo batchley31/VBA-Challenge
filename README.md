@@ -28,7 +28,9 @@ After I have all the value inputted for the first stock I have the code resent t
 
 At the end of my code I am labeling each column of the values I am putting in.  I put this last because it is the most simple part and put it at the end to set it and leave it. I also have a message box that pops up and tells me that the code is done running all of the calculations.
 
+#Sources
 
+Part of my code I hade help from a tutor Kourt Bailey, I spent an hour with him understanding how to write the calcualtions and using the variables to define 
 
 
 
